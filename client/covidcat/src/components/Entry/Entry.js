@@ -6,7 +6,7 @@ function Entry() {
     <div className="Entry">
       <header className="Entry-header">
         <p>
-        enter name, start a game or join a game (private), find a game (public)
+        Info: enter name, start a game or join a game (private), find a game (public)
         </p>
         
       </header>
